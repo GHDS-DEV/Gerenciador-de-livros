@@ -8,6 +8,9 @@ Nome do Livro, data que foi adicionado, quem doou
 -Pegar emprestado:
 nome do livro, quem pegou, data que pegou, se devolveu, quando devolveu.
 
+- Devolver livro:
+nome do livro, quem pegou
+
 -Excluir livro 
 Motivo da exclusão, quem excluiu, data
 
